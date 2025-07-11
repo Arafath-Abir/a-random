@@ -1,1 +1,2 @@
-# a-random
+# A random repository
+Author: Arafath Abir
